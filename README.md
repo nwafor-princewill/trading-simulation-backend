@@ -82,7 +82,7 @@ Scalable – one goroutine per client
 Getting Started
 
 1. Clone & Install
-bashgit clone https://github.com/yourname/trading-simulator-backend.git
+bashgit clone https://github.com/nwafor-princewill/trading-simulator-backend.git
 cd trading-simulator-backend
 go mod tidy
 2. Environment (.env)
