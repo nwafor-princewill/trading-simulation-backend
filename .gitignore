@@ -1,0 +1,28 @@
+# .gitignore
+# ------------------------------
+# Environment variables (secrets)
+.env
+.env.local
+.env.*.local
+
+# Go
+/bin/
+/tmp/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artefacts
+main
